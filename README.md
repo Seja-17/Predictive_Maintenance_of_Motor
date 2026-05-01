@@ -1,1 +1,1 @@
-# Predictive_Maintenance_of_Motor-
+# Predictive_Maintenance_of_Motor
